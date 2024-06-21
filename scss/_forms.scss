@@ -1,0 +1,14 @@
+/* Forms */
+input, textarea, select {
+    width: 100%;
+    padding: $spacing-unit-half;
+    margin-bottom: $spacing-unit;
+    border: 1px solid $input-border-color;
+    border-radius: $border-radius;
+}
+
+label {
+    display: block;
+    margin-bottom: $spacing-unit-half;
+    font-weight: bold;
+}
